@@ -1,19 +1,19 @@
-# Hello and welcome! :smile:
-*Here is a meme I created* :smile_cat:
+# Hello and welcome! 😄
+*Here is a meme I created* 😸
 
 ![](my_meme.png)
 ## Some info about my meme!
-#### Why did I create this meme? :thinking:
-1. I like cats and think they're pretty cool.
-2. I prefer using dark mode interface - it's night owl friendly :D 
+#### Why did I create this meme? 🤔
+1. I like cats and think they're pretty cool
+2. I prefer using dark mode interface - it's night owl friendly 🦉🌙
 3. Did I mention that I like cats?
-4. It's for an assignment. :smirk_cat:
+4. It's for an assignment 😏
 
 I was inspired by the meme, [Does It Spark Joy?](https://meme-creator.com/meme/65662971/does-it-spark-joy) The popularised catchphrase refers to Japanese author and tidying consultant Marie Kondo and her Netflix series, [Tidying Up with Marie Kondo.](https://www.netflix.com/title/80209379) I kept the original catchphrase but replaced the images with cat reactions to show that dark mode ***sparks joy.***
 #### What did I use to create this meme?
 - I created this meme using an **R** package called [***magick***](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 - [Happy cat I found on the internet](https://i.imgflip.com/10xoy6.jpg)
-- [Koyuki, the *grumpy* Scottish fold](https://abcnews.go.com/Lifestyle/japanese-grumpy-cat-fiercest-feline/story?id=37005279)
+- [Koyuki, the *grumpy* Scottish fold](https://abcnews.go.com/Lifestyle/japanese-grumpy-cat-fiercest-feline/story?id=37005279) 😾
 - [Dark mode image](https://www.tabnine.com/blog/wp-content/uploads/2021/11/16-light-1.png)
 - [Light mode image](https://www.tabnine.com/blog/wp-content/uploads/2021/11/16-light-1.png)
 
