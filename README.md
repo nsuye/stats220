@@ -4,7 +4,7 @@
 
 It's a work in progress, but this will do for now! :sweat_smile:
 
-Check out my [website!](https://nsuye.github.io/stats220/)
+Check out my [website!](https://nsuye.github.io/stats220/) to view my recently created meme using the `R` package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 ### Here is a happy Samoyed I found on [Reddit](https://www.reddit.com/)
 
